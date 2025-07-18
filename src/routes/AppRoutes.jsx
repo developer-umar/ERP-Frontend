@@ -20,7 +20,7 @@ import AllTeachers from "../pages/Admin/AllTeachers";
 import TeacherDetail from "../pages/Admin/TeachersDetail";
 import AllLeaves from "../pages/Admin/AllLeaves";
 import AdminNoticePage from "../pages/Admin/AdminNoticePage";
-import TeacherDashboard from "../pages/teacher/Teacherdashboard";
+import TeacherDashboard from "../pages/teacher/Teacherdashboard"
 import TeacherLogin from "../pages/teacher/TeacherLogin";
 import AdminCreateTimetable from "../pages/Admin/AdminCreateTimetable";
 import TimetableList from "../pages/Admin/AdminTimetableList";
@@ -32,7 +32,7 @@ import TeacherNotices from "../pages/teacher/TeacherNotices";
 import UploadAssignment from "../pages/teacher/UploadAssingments";
 import UploadResults from "../pages/teacher/UploadResults";
 import TeacherRegister from "../pages/teacher/TeachersRegistrationPage";
-// import AllStudents from "../pages/Admin/AllStudents";
+
 
 const AppRoutes = () => {
     return (
