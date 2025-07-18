@@ -36,6 +36,7 @@ const TeacherProfile = () => {
     );
   }
 
+
   if (!profile) {
     return (
       <TeacherDashboardLayout>
@@ -70,7 +71,7 @@ const TeacherProfile = () => {
             Teacher Profile
           </h2>
           <p className="text-sm text-gray-500 mt-1">
-            Your verified academic information
+            Your verified academic information 
           </p>
         </div>
 
